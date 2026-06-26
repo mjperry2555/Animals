@@ -1,0 +1,1 @@
+Alphabet Animals is a fun and interactive educational iPad app built with Pythonista. Children can explore all 26 letters of the alphabet alongside colorful animal emojis and spoken pronunciation. Simple touch navigation makes learning engaging, while text-to-speech reinforces letter recognition, vocabulary development, and early literacy skills.
